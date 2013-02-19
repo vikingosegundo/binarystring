@@ -2,7 +2,7 @@
 //  main.m
 //  binarystring
 //
-//  Created by Manuel Meyer on 18.02.13.
+//  Created by vikingosegundo on 18.02.13.
 //  Copyright (c) 2013 yourcompany. All rights reserved.
 //
 
